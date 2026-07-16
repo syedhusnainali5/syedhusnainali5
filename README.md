@@ -1,24 +1,30 @@
-# 💫 About Me:
-👋 Developer passionate about creating efficient, secure, and impactful digital solutions 🚀.<br>Armed with a versatile toolkit that includes the MERN stack (MongoDB, Express, React, Node.js), alongside Next.js, .NET/C#, Python, and modern cloud technologies 🛠️,<br><br>I bring ideas to life through scalable applications, AI-powered solutions, real-time systems, and custom software that deliver meaningful results.<br><br>From building high-performance web applications to architecting robust backends and interactive platforms, <br>I’m always excited to take on new challenges, explore innovative technologies, and engineer solutions that make a difference 💡. Whether it’s developing intelligent systems, crafting seamless user experiences, or optimizing application performance, I’m all in for projects that push boundaries and deliver exceptional results.<br><br>Let’s connect and create something exceptional! 😎<br><br>Catch me on LinkedIn for updates, or just drop by to say hi! ✌️
+<h1 align="center">rm -rf doubts/</h1>
+<h3 align="center">Husnain Ali · builds things that stay up after you close the laptop</h3>
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/syedhusnainali.skillrextech) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/syedhusnainali) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/skillrextech) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=syedhusnainaliskillrextech&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=syedhusnainaliskillrextech&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=syedhusnainaliskillrextech&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=syedhusnainaliskillrextech&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=2EA043&center=true&vCenter=true&width=550&lines=Shipped+on+Play+Store.+No+crashes+(yet).;WebRTC+%2B+GPS+%3D+bodycams+that+don't+lag;Spins+up+e-commerce+stores+like+coffee+orders;git+commit+-m+%22it+works%2C+don't+ask+why%22" alt="Typing SVG" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=syedhusnainaliskillrextech&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**MongoDB, Node, React, repeat.** I build the app, the API, and the server it screams from — e-commerce, health tech, live video, whatever pays and whatever's interesting. Currently studying CS so I have official proof I know why the code works.
+
+`React` `Next.js` `React Native` `Node.js` `Express` `MongoDB` `WebRTC` `AWS` `.NET`
+
+**Live receipts:**
+- 📱 BeFAB — fitness app, actually on Google Play, actual humans using it
+- 🏪 Commerce OS — multi-tenant store platform, isolated instances, zero chill
+- 🎥 Bodycam streaming system — live GPS + video, low latency, high anxiety
+- 💬 NCChatter — real-time chat platform that doesn't fall over under load
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=syedhusnainali5&show_icons=true&theme=react&hide_border=true&count_private=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedhusnainali5&layout=compact&theme=react&hide_border=true" />
+</p>
+
+<p align="center">
+<a href="https://linkedin.com/in/syedhusnainali"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:husnain612988@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center"><sub>Islamabad-based. Coffee-powered. Uptime > everything.</sub></p>
