@@ -1,5 +1,5 @@
 <h1 align="center">rm -rf doubts/</h1>
-<h3 align="center">Husnain Ali · builds things that stay up after you close the laptop</h3>
+<h3 align="center">Build things that stay up after you close the laptop</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=2EA043&center=true&vCenter=true&width=550&lines=Shipped+on+Play+Store.+No+crashes+(yet).;WebRTC+%2B+GPS+%3D+bodycams+that+don't+lag;Spins+up+e-commerce+stores+like+coffee+orders;git+commit+-m+%22it+works%2C+don't+ask+why%22" alt="Typing SVG" />
