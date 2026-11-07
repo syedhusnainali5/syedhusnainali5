@@ -198,7 +198,6 @@
 
 <p align="center">
   <a href="https://reactnative.dev/"><img src="https://skillicons.dev/icons?i=react" width="48" alt="React Native"/></a>
-  <a href="https://expo.dev/"><img src="https://skillicons.dev/icons?i=expo" width="48" alt="Expo"/></a>
   <a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter" width="48" alt="Flutter"/></a>
   <a href="https://dart.dev/"><img src="https://skillicons.dev/icons?i=dart" width="48" alt="Dart"/></a>
   <a href="https://developer.android.com/"><img src="https://skillicons.dev/icons?i=androidstudio" width="48" alt="Android"/></a>
@@ -209,7 +208,7 @@
 <p align="center">
   <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" width="48" alt="MongoDB"/></a>
   <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="48" alt="MySQL"/></a>
-  <a href="https://mariadb.org/"><img src="https://skillicons.dev/icons?i=mariadb" width="48" alt="MariaDB"/></a>
+  <a href="https://postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" width="48" alt="MariaDB"/></a>
   <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" width="48" alt="Firebase"/></a>
   <a href="https://www.cloudflare.com/developer-platform/products/r2/"><img src="https://skillicons.dev/icons?i=cloudflare" width="48" alt="Cloudflare"/></a>
 </p>
