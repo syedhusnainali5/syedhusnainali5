@@ -16,9 +16,6 @@
   <a href="mailto:husnain612988@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://skillrextech.com">
-    <img src="https://img.shields.io/badge/SkillRex--Tech-Website-F06922?style=flat-square" />
-  </a>
 </p>
 
 ---
